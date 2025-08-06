@@ -5,6 +5,7 @@ PackMule is your all-in-one trip planner and adventure log. Whether you’re bik
 
 ## [Elephant English]()
 <img src="https://github.com/jeffreyzeller/CybersecurityPortfolio/blob/bc0b281f958ca05f7dd106425a8e4d45192d0b1c/Web%20Development/.resources/elephant-english.png" width="150" />
+<img src="https://github.com/jeffreyzeller/Cybersecurity-Portfolio/raw/main/Web%20Development/.resources/whyzlist.png" width="150" alt="whyzlist">
 Elephant English was a website for teachers and students to connect. This platform allowed teachers to create a profile and upload a curriculum, and their availability. Students on the platform can select a teacher and a curriculum to then purchase classes based on their availability.
 
 ## [Whyzlist]()
