@@ -4,7 +4,7 @@
 PackMule is your all-in-one trip planner and adventure log. Whether you’re bikepacking, backpacking, or out on a weekend trek, PackMule helps you plan every detail and capture the journey.
 
 ## [Elephant English]()
-<img src="./Web Development/.resources/elephant-english.png" width="150" />
+<img src="https://github.com/jeffreyzeller/CybersecurityPortfolio/blob/bc0b281f958ca05f7dd106425a8e4d45192d0b1c/Web%20Development/.resources/elephant-english.png" width="150" />
 Elephant English was a website for teachers and students to connect. This platform allowed teachers to create a profile and upload a curriculum, and their availability. Students on the platform can select a teacher and a curriculum to then purchase classes based on their availability.
 
 ## [Whyzlist]()
