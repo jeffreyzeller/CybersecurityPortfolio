@@ -1,4 +1,4 @@
-# Cybersecurity-Portfolio for Jeffrey Zeller
+# Cybersecurity Portfolio for [@jeffreyzeller](https://github.com/jeffreyzeller)
 A portfolio of my cybersecurity research, work and documents to display my skills and experience for employment opportunities.
 
 
