@@ -7,4 +7,6 @@ PackMule is your all-in-one trip planner and adventure log. Whether you’re bik
 Elephant English was a website for teachers and students to connect. This platform allowed teachers to create a profile and upload a curriculum, and their availability. Students on the platform can select a teacher and a curriculum to then purchase classes based on their availability.
 
 ## [Whyzlist]()
+![](https://github.com/jeffreyzeller/CybersecurityPortfolio/blob/9516ef7e0b585ff0f6b5508282c5ec0cb81ad7df/Web%20Development/.resources/whyzlist.png)
+
 Whyzlist was web development project to help frugal people find the daily drink and food deals at restaraunts. Restaraunts could register and add their business location or multiple locations to manage and list their food & drink specials.
