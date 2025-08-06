@@ -9,5 +9,5 @@ Elephant English was a website for teachers and students to connect. This platfo
 
 ## [Whyzlist]()
 ![Whyzlist](https://github.com/jeffreyzeller/Cybersecurity-Portfolio/raw/main/Web%20Development/assets/whyzlist.png)
-![Whyzlist](assets/whyzlist.png)
+![Whyzlist](./assets/whyzlist.png)
 Whyzlist was web development project to help frugal people find the daily drink and food deals at restaraunts. Restaraunts could register and add their business location or multiple locations to manage and list their food & drink specials.
