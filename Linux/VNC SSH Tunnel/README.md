@@ -46,4 +46,11 @@ The SSH tunnel forwards the traffic from the specified local port on your machin
 
 5. To run the file run `./VNC-SSH-TUNNEL.sh`
 
-6. Connect with VNC Viewer: Open your VNC client and connect to `localhost:<local-port>` (using the same local port number you specified in the SSH tunnel command). 
+6. Connect with VNC Viewer: Open your VNC client and connect to `localhost:<local-port>` (using the same local port number you specified in the SSH tunnel command).
+
+## Other Mentions
+
+Although this is written up to teach you how to a connect to a VNC Server via SSH tunnel you can use this method to connect to other FTP or SQL and many more in the same fashion.
+
+* For FTP Change the `remote-vnc-port` to `21`
+* To connect an SQL server change `remote-vnc-port` to `3306`
